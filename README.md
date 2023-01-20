@@ -13,9 +13,9 @@ Android动态分析工具(黑蜘蛛)
 
 
 正在实现（详细点击issues查看）
-- [] 完成弹出窗口最小化功能 https://github.com/MartinKayJr/BlackSpiderDocument/issues/1
-- [] 完成对ListView与RecyclerView的定位 https://github.com/MartinKayJr/BlackSpiderDocument/issues/2
-- [] 增加细粒度的功能控制 https://github.com/MartinKayJr/BlackSpiderDocument/issues/3
-- [] 支持自定义HOOK https://github.com/MartinKayJr/BlackSpiderDocument/issues/4
-- [] 支持对变量进行插件化功能 https://github.com/MartinKayJr/BlackSpiderDocument/issues/5
-- [] 自动捕获按钮点击事件 https://github.com/MartinKayJr/BlackSpiderDocument/issues/6
+- [ ] 完成弹出窗口最小化功能 https://github.com/MartinKayJr/BlackSpiderDocument/issues/1
+- [ ] 完成对ListView与RecyclerView的定位 https://github.com/MartinKayJr/BlackSpiderDocument/issues/2
+- [ ] 增加细粒度的功能控制 https://github.com/MartinKayJr/BlackSpiderDocument/issues/3
+- [ ] 支持自定义HOOK https://github.com/MartinKayJr/BlackSpiderDocument/issues/4
+- [ ] 支持对变量进行插件化功能 https://github.com/MartinKayJr/BlackSpiderDocument/issues/5
+- [ ] 自动捕获按钮点击事件 https://github.com/MartinKayJr/BlackSpiderDocument/issues/6

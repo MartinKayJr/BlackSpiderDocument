@@ -11,6 +11,10 @@ Android动态分析工具(黑蜘蛛)
 - [x] 对image组件做查看视图按钮(VIEW)
 - [x] 增加对activity的所有函数调用监听(需要开启悬浮窗)
 
+v1.1版本增加：  
+- [x] 支持多个Frida脚本的执行。
+- [x] 内置IDE编辑器让你更好的完成脚本的编写。
+
 
 正在实现（详细点击issues查看）
 - [ ] 完成弹出窗口最小化功能 https://github.com/MartinKayJr/BlackSpiderDocument/issues/1

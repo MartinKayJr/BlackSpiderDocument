@@ -23,3 +23,9 @@ v1.1版本增加：
 - [ ] 支持自定义HOOK https://github.com/MartinKayJr/BlackSpiderDocument/issues/4
 - [ ] 支持对变量进行插件化功能 https://github.com/MartinKayJr/BlackSpiderDocument/issues/5
 - [ ] 自动捕获按钮点击事件 https://github.com/MartinKayJr/BlackSpiderDocument/issues/6
+
+v1.2版本未来拓展(调试台)
+- [ ] 调试台监视器功能(干涉内容)
+- [ ] 调试台表达式评估功能(计算内容)
+- [ ] 调试台堆栈跟踪功能、异步跟踪功能(跟踪内容)
+- [ ] 调试台控制台功能(插桩日志)
